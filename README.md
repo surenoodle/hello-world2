@@ -1,2 +1,2 @@
 # hello-world2
-practice
+A little bit about me: I live near an Ikea and I have recently discovered it is a great place to get work done when I need a break from my home office. There is a lot of space in the cafeteria, and a good variety of options for sitting. The place attracts its characters but for the most part there is me, some old folks hanging out, a handful of people working at their computers, and a homeless-seeming guy who anxiously circumnambulates the floor under odd pretexts. 
